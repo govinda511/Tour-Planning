@@ -1,3 +1,4 @@
 # Tour-Planning
-This course project was about creating a platform by which user can manage their  tour by booking tickets for flights, bus and hotels in major city of India. 
-It also  gave idea of visiting places of particular city with total expenses. 
+There are two files GUI and DGUI. Both are almost similar that's why DGUI is duplicate of GUI. DGUI doesn't have main function.
+Database connection for db2-
+Connection con=DriverManager.getConnection("jdbc:db2://localhost:50000/tourpro", "Username","Password");
